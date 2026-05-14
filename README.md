@@ -1,5 +1,3 @@
-# Tic-Tac-Toe ML Training: Version I
-
 # Tic-Tac-Toe Neural Network
 
 A browser-based implementation of a self-learning AI opponent, developed using the **Brain.js** library to explore the foundations of supervised learning and iterative data aggregation.
