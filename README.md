@@ -31,8 +31,6 @@ This repository showcases the fundamental structure required to build an AI agen
 2.  **Iterative Training:** A mechanism that saves new game data to enhance the model's accuracy after each match.
 3.  **Prediction Logic:** Utilising weighted outputs to determine the highest-probability winning move in real-time.
 
----
-
 ## Getting Started
 
 To run the project locally:
