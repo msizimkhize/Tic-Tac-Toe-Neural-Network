@@ -40,7 +40,9 @@ To run the project locally:
 2. Open `index.html` in any modern web browser.
 3. Select your difficulty level and begin the training session!
 
+---
 ![](https://github.com/msizimkhize/Tic-Tac-Toe-ML-Training-Version-I/blob/main/gameplayshots.png?raw=true)
+---
 
 #### Reach Out on LinkedIn
 
