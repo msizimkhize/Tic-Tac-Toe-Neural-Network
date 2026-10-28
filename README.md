@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Neural Network
+# Synapse Tic-Tac-Toe
 
 A browser-based implementation of a self-learning AI opponent, developed using the **Brain.js** library to explore the foundations of supervised learning and iterative data aggregation.
 
